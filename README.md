@@ -6,7 +6,7 @@ Faço traduções não oficiais de jogos para **português brasileiro (PT-BR)**,
 
 | Jogo | Situação | Projeto |
 | --- | --- | --- |
-| The Survey | Disponível — v1.0 | [Ver projeto](https://github.com/GabrielMichell/the-survey-ptbr) |
+| The Survey | Disponível — v1.1 | [Ver projeto](https://github.com/GabrielMichell/the-survey-ptbr) |
 
 ## 🔎 Sobre meu trabalho
 

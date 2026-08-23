@@ -9,6 +9,7 @@ Faço traduções não oficiais de jogos para **português brasileiro (PT-BR)**,
 | The Survey | Disponível — v1.1 | [Ver projeto](https://github.com/GabrielMichell/the-survey-ptbr) |
 | Stories Untold | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/stories-untold-ptbr) |
 | Metro: Last Light Complete Edition | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/metro-last-light-ptbr) |
+| Lucius II | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/lucius-ii-ptbr) |
 | Lucius III | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/lucius-iii-ptbr) |
 
 ## 🔎 Sobre meu trabalho

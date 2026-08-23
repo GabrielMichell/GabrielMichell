@@ -7,6 +7,7 @@ Faço traduções não oficiais de jogos para **português brasileiro (PT-BR)**,
 | Jogo | Situação | Projeto |
 | --- | --- | --- |
 | The Survey | Disponível — v1.1 | [Ver projeto](https://github.com/GabrielMichell/the-survey-ptbr) |
+| Metro: Last Light Complete Edition | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/metro-last-light-ptbr) |
 
 ## 🔎 Sobre meu trabalho
 
@@ -21,7 +22,7 @@ Faço traduções não oficiais de jogos para **português brasileiro (PT-BR)**,
 
 I create unofficial Brazilian Portuguese (PT-BR) translations for games, with a focus on natural language, context, interface and narrative consistency, and in-game testing.
 
-If you are a game developer or publisher and would like to discuss a PT-BR localization, feel free to contact me through GitHub. If a review key is needed to evaluate the game and develop the translation, you are welcome to provide a temporary key. Review keys are used only for translation work; all rights remain with the game's creators.
+If you are a game developer or publisher and would like to discuss a PT-BR localization, feel free to contact me through GitHub. If a review key is needed to evaluate the game and develop the translation, you are welcome to provide a temporary key. Review keys are used only for translation work; all rights remain with the game’s creators.
 
 When contacting me, please include the game title, platform or store page, and the best way to discuss the project.
 

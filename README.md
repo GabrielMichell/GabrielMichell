@@ -19,17 +19,20 @@ A Central não executa instaladores externos `.exe`. Cada projeto informa no cat
 
 **[Conheça a Central PT-BR e veja o código do projeto →](https://github.com/GabrielMichell/central-pt-br)**
 
-## 🕹️ Traduções disponíveis
+## 📸 A Central em funcionamento
 
-| Jogo | Situação | Projeto |
-| --- | --- | --- |
-| Alice: Madness Returns | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/alice-madness-returns-ptbr) |
-| The Survey | Disponível — v1.1 | [Ver projeto](https://github.com/GabrielMichell/the-survey-ptbr) |
-| Stories Untold | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/stories-untold-ptbr) |
-| Metro: Last Light Complete Edition | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/metro-last-light-ptbr) |
-| Lucius | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/lucius-ptbr) |
-| Lucius II | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/lucius-ii-ptbr) |
-| Lucius III | Disponível — v1.0.0 | [Ver projeto](https://github.com/GabrielMichell/lucius-iii-ptbr) |
+Veja como a Central organiza a biblioteca de jogos, mostra o estado de cada tradução e permite gerenciar a instalação diretamente no aplicativo.
+
+<p align="center">
+  <img src="./assets/central-biblioteca.png" alt="Biblioteca de traduções da Central PT-BR" width="92%">
+</p>
+
+<p align="center">
+  <img src="./assets/central-traducao-instalada.png" alt="Detalhes de uma tradução instalada na Central PT-BR" width="49%">
+  <img src="./assets/central-traducao-nao-instalada.png" alt="Detalhes de uma tradução não instalada na Central PT-BR" width="49%">
+</p>
+
+Os projetos e suas versões aparecem no catálogo da Central, que pode ser atualizado sem precisar procurar cada tradução separadamente.
 
 ## 🔎 Sobre meu trabalho
 

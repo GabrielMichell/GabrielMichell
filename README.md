@@ -6,8 +6,6 @@ Faço traduções não oficiais de jogos para **português brasileiro (PT-BR)**,
 
 A [Central PT-BR](https://github.com/GabrielMichell/central-pt-br) é um aplicativo desktop que ajuda a encontrar, instalar, atualizar e remover traduções de jogos da Steam.
 
-**[⬇️ Baixar a Central PT-BR v2.2.3](https://github.com/GabrielMichell/central-pt-br/releases/download/v2.2.3/Central-PT-BR.exe)** · [Ver a release](https://github.com/GabrielMichell/central-pt-br/releases/tag/v2.2.3)
-
 ### Como funciona
 
 1. A Central lê o catálogo público de traduções.
@@ -18,6 +16,8 @@ A [Central PT-BR](https://github.com/GabrielMichell/central-pt-br) é um aplicat
 6. Depois, você pode atualizar ou remover a tradução pelo próprio aplicativo, restaurando o backup quando necessário.
 
 A Central não executa instaladores externos `.exe`. Cada projeto informa no catálogo sua versão, compatibilidade, arquivos, destinos relativos e regras especiais de instalação quando necessário.
+
+**[⬇️ Baixar a Central PT-BR v2.2.3](https://github.com/GabrielMichell/central-pt-br/releases/download/v2.2.3/Central-PT-BR.exe)** · [Ver a release](https://github.com/GabrielMichell/central-pt-br/releases/tag/v2.2.3)
 
 **[Conheça a Central PT-BR e veja o código do projeto →](https://github.com/GabrielMichell/central-pt-br)**
 
